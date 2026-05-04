@@ -1,0 +1,8 @@
+# Python build/runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment (if you use one)
+venv/
+.venv/
